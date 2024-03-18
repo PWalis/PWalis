@@ -15,9 +15,9 @@ I'm a passionate Full Stack Web Developer based in Phoenix, with a love for writ
 ### Frameworks & Libraries
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)]()
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)]()
-[![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)]()
 [![](https://img.shields.io/badge/Express.js-404D59?style=flat&logo)]()
 [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)]()
+[![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)]()
 
 ### Tools
 [![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)]()
